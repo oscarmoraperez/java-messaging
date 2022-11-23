@@ -1,6 +1,6 @@
-# Java Mentoring Program: Java-messaging
+# Java-messaging
 
-This maven-based project contains the exercises defined in the 'java-messaging' module of Java Mentoring program.
+This maven-based project contains 3 demo/examples of messaging: activemq, rabbitmq and kafka 
 
 0) To run the project one have the following options:
 
